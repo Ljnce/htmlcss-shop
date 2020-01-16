@@ -12,7 +12,7 @@ header{
     font-size: 15px;
     text-align: center;
     margin-top: 30px;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Montserrat';
 }
 
 footer{
@@ -69,4 +69,11 @@ allo shop si potesse aprire tramite il push sul cuore che sarebbe diventato ross
 }
 .sconto.red{
     background-color: red;
+}
+
+.yellow,.blue{
+    color: red;
+}
+.red{
+    color: yellow;
 }
