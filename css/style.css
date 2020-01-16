@@ -27,7 +27,8 @@ footer{
     background-color: #ededed;
     border: 4px inset black;
 }
-
+/* in alternativa avevo pensato di mettere il background-image: (url), background-saze: contain, per fare in modo che il link diretto
+allo shop si potesse aprire tramite il push sul cuore che sarebbe diventato rosso, e non il push sull'immagine come adesso. */
 .c1{
     width: 180px;
     height: 180px;
